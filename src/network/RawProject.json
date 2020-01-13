@@ -1,0 +1,410 @@
+{
+    "Materials": {
+        "Air-Conditioning and Mechanical Ventilation (ACMV)": {
+            "Chilled Water Pipes": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Refrigerant Pipes": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Ducting": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Insulation": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Diffusers": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Dampers": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Fans": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "AHU": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Chiller": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Cooling Tower": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Pump": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "FCU": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            }
+
+        },
+
+        "Fire Detection and Protection System": {
+
+            "Hydrant Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+        
+            "Sprinkler Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Heat Detector": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Smoke Detector": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Flame Detector": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Sprinkler Bulb": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Pump": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Water tank": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            }
+
+        },
+
+        "Plumbing and Sanitary System": {
+
+            "External Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Internal Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Pump": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Water Tank": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            }
+
+        },
+
+        "Fuel Storage and Distribution System": {
+
+            "External Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Internal Pipe": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            },
+
+            "Pump": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Fuel Tank": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Material": "String",
+                "Certification standard": "String"
+            }
+
+        },
+
+        "Low Voltage System": {
+
+            "External Cable": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Internal Cable": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Switch Gears": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Switch Boards": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            }
+
+        },
+
+        "High Voltage System": {
+
+            "External Cable": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Internal Cable": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Switch Gears": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            },
+
+            "Switch Boards": {
+                "Catalogue": "PDF",
+                "Brand": "String",
+                "Country of make": "String",
+                "Certification standard": "String"
+            }
+
+        }
+    },
+
+    "Design": {
+
+        "Air-Conditioning and Mechanical Ventilation (ACMV)": {
+
+            "Chilled Water Distribution Design": {
+                "Drawing": "PDF"
+            },
+
+            "Air Distribution Design": {
+                "Drawing": "PDF"
+            },
+
+            "Chilled Water Distribution Schematic": {
+                "Drawing": "PDF"
+            },
+
+            "Air Distribution Schematic": {
+                "Drawing": "PDF"
+            }
+        
+        },
+
+        "Fire Detection and Protection System": {
+
+            "Fire Detection Design": {
+                "Drawing": "PDF"
+            },
+
+            "Fire Sprinkler Design": {
+                "Drawing": "PDF"
+            },
+            
+            "Fire Detection Schematic": {
+                "Drawing": "PDF"
+            }
+
+        },
+
+        "Plumbing and Sanitary System": {
+            
+            "Water Distribution Design": {
+                "Drawing": "PDF"
+            },
+            
+            "Water Distribution Schematic": {
+                "Drawing": "PDF"
+            },
+            
+            "Sanitary Distribution Design": {
+                "Drawing": "PDF"
+            },
+            
+            "Sanitary Distribution Schematic": {
+                "Drawing": "PDF"
+            }
+        
+        },
+
+        "Fuel Storage and Distribution System": {
+
+            "Fuel Distribution Design": {
+                "Drawing": "PDF"
+            },
+
+            "Fuel Distribution Schematic": {
+                "Drawing": "PDF"
+            }
+        },
+
+        "Low Voltage System": {
+
+            "LT Distribution Design": {
+                "Drawing": "PDF"
+            },
+
+            "LT Distribution Schematic": {
+                "Drawing": "PDF"
+            }
+        
+        },
+
+        "High Voltage System": {
+            
+            "LT Distribution Design": {
+                "Drawing": "PDF"
+            },
+            
+            "LT Distribution Schematic": {
+                "Drawing": "PDF"
+            }
+
+        }
+    
+    },
+
+    "T&C": {
+        "Air-Conditioning and Mechanical Ventilation (ACMV)": {
+            "Chilled Water Pipe Pressure Test": {
+                "Drawing": "PDF",
+                "Test Pressure": "String",
+                "Calibration Certification of Pressure Gauge": "PDF",
+                "Test Date": "String",
+                "Test Start Time": "String",
+                "Photo of Pressure gauge at the start": "Image",
+                "Test End Time": "String",
+                "Photo of Pressure gauge at the end": "Image"
+            }
+        },
+
+        "Fire Detection and Protection System": {},
+        "Plumbing and Sanitary System": {},
+        "Fuel Storage and Distribution System": {},
+        "Low Voltage System": {},
+        "High Voltage System": {}
+    }
+}
